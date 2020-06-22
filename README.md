@@ -1,7 +1,7 @@
 # CSCI-184
 Machine Learning  
 
-Taken Spring 2019
+Taken Spring 2020
 
 HW1: Using scikitlearn to predict flower species through logistic regression on the UCI iris dataset. 
 
